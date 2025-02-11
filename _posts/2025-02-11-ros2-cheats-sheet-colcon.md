@@ -1,7 +1,7 @@
 ---
 title: ROS2 Cheats Sheet - Colcon
 description: >-
-  Ros2 cheats sheet for colcon 
+  ros2 colcon的命令参数使用示例
 author: xie
 date: 2025-02-11 15:02:00 +0800
 categories: [Basic, ROS2]

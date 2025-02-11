@@ -1,8 +1,7 @@
 ---
 title: ROS2 Cheats Sheet (Humble)
 description: >-
-  Get started with Chirpy basics in this comprehensive overview.
-  You will learn how to install, configure, and use your first Chirpy-based website, as well as deploy it to a web server.
+  ros2的命令参数使用示例.
 author: xie
 date: 2025-02-11 15:00:00 +0800
 categories: [Basic, ROS2]
